@@ -1,2 +1,2 @@
 # PBS hackathon Curve
-This is the repo for the DROP DOUBLE solution
+This is a repo for the DROP TABLE solution
